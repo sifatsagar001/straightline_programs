@@ -1,0 +1,6 @@
+{
+    "editor.rulers": [80],
+    "files.autoSave": "afterDelay",
+    "github.copilot.enable": { "python": false },
+    "workbench.startupEditor": "none",
+}
