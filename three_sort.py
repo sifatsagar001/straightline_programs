@@ -5,8 +5,8 @@ x = int(sys.argv[1])
 y = int(sys.argv[2])
 z = int(sys.argv[3])
 
-min = min(x,y,z) 
-max = max(x, y, z)
-mid = (min + max) - (x + y + z) 
+small = min(x,y,z) 
+large = max(x, y, z)
+mid = (x + y + z) - small - large
 
-stdio.writeln(f"{min} {mid} {max})
+stdio.writeln(f"{small} {mid} {large}")
