@@ -15,21 +15,21 @@ Problem 6 (Wind Chill): I had to put * sign before the variable
 
 Problem 7 (Gravitational Force): Terminal didn't accept the input because there werer space between e and digit.
 
-Problem 8 (Gambler's Ruin): ...
+Problem 8 (Gambler's Ruin): I stored 3 input first then use them in formula from writup
 
-Problem 9 (Waiting Time): ...
+Problem 9 (Waiting Time): I had to google for how to define e in the equation. 
 
-Problem 10 (Cartesian Coordinates): ...
+Problem 10 (Cartesian Coordinates): I didn't convert degree to radiant, that's why I was getting wrong answer
 
-Problem 11 (Great Circle Distance): ...
+Problem 11 (Great Circle Distance): I wrote my sequence x1, x2, y1, y2. Then I had to swap x2 with y1.  
 
-Problem 12 (Snell's Law): ...
+Problem 12 (Snell's Law): I converted every input in radiants and finish calculation then convert t2 back to degrees. 
 
 Problem 13 (Uniform Random Numbers): ...
 
 Problem 14 (Die Roll): ...
 
-Problem 15 (Triangle Inequality): ...
+Problem 15 (Triangle Inequality): I had to use and command for boolean expression bacause it shows true when we swap the variable instead of showing false.
 
 2. List any acknowledgements here.
 
